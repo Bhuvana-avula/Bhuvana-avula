@@ -1,4 +1,4 @@
-Undergoing Python Full Stack Development course.
+Working as Python Full Stack Developer.
 Loves to code,
 Currently working on something cool,
 Email:bhuvana.aavula@gmail.com
